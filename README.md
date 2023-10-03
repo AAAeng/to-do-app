@@ -9,3 +9,4 @@ merge
 copy squash1
 copy squash2
 copy squash3
+copy squash3
